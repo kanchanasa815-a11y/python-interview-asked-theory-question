@@ -1,0 +1,2 @@
+1.what is pytho?
+==>python is a high level,interpreted,object oriented programing language.
