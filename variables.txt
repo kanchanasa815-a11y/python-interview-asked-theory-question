@@ -1,2 +1,5 @@
 1.what is pytho?
 ==>python is a high level,interpreted,object oriented programing language.
+2.How do we declear variable in python?
+==>declear variable in the python using assignement operator(=)
+E.g:name="kanchana"
