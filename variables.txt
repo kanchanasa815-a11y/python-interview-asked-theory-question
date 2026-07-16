@@ -1,5 +1,13 @@
-1.what is pytho?
+1.what is python?
 ==>python is a high level,interpreted,object oriented programing language.
 2.How do we declear variable in python?
 ==>declear variable in the python using assignement operator(=)
-E.g:name="kanchana"
+E.g: name="kanchana"
+3.Python is statically type or dynamically type?
+==>python is dynamically type(change,un-uniform)
+4.Can you change the data type of a variable?
+==>yes,it is a dynamically type.
+E.g: x=20
+     print(type(x))
+     x="python"
+     print(type(x))
