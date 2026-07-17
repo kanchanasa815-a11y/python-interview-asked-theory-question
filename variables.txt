@@ -11,3 +11,7 @@ E.g: x=20
      print(type(x))
      x="python"
      print(type(x))
+5.what are the rules of variables?
+==> * variables conatains numbers(0 to 10),alphabetes(A to Z) and (a to z)
+    *varibales should start for the underscore(_) or alphabetes not a numbers
+    *variables are case sensitive Name and name are the different
