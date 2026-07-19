@@ -21,3 +21,13 @@ a=b=c=100
 
 #Assigning multpile value to multiple variable
 a,b,c=20,30,40
+
+7.variable unpacking
+Assigning element of the collection(list,tuple,string)multiple variables in a single statement
+
+syntax:variable1,variable2,variable:=collection
+E.g:student=("kanchana",22,"Hospet")
+name,age,city=student
+print(name)
+print(age)
+print(city)
