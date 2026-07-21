@@ -31,7 +31,10 @@ name,age,city=student
 print(name)
 print(age)
 print(city)
-
-8.What are local and Global variable?
+8.What is Global Keyword?
+==>The Global keyword is used to access and modify a global variable inside the function
+9.what is non-local keyword?
+==>nonlocal keyword used to modify a variable outside the function
+10.What are local and Global variable?
 local variable:The variable are defined inside the function,and access only within the function
 Global Variable:The variable are defined outside  and access anywhere in the function
