@@ -1,1 +1,2 @@
-
+1.What is count frequency of Element?
+==>We can use a dictionary to store each element as a Key and occurrence count as value.
