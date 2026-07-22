@@ -1,2 +1,5 @@
 1.What is count frequency of Element?
 ==>We can use a dictionary to store each element as a Key and occurrence count as value.
+2.What is List?
+==> * List is a Orederd,Mutable(changable),and allow the duplicate element in a list.
+    * List use the [] square bracket
