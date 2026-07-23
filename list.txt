@@ -3,3 +3,6 @@
 2.What is List?
 ==> * List is a Orederd,Mutable(changable),and allow the duplicate element in a list.
     * List use the [] square bracket
+3.Why List is Mutable?
+==>List can be add,remove,delete we change the data during the program Execution.
+
