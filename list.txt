@@ -5,4 +5,10 @@
     * List use the [] square bracket
 3.Why List is Mutable?
 ==>List can be add,remove,delete we change the data during the program Execution.
-
+4.Write a difference b/w list and tuple
+      List                                      Tuple
+*List are Ordered                        *Tuples are Ordered
+*List are Mutable                        *Tuples are Immutable
+*List can allow Duplicate                *Tuples can allow Duplicate
+*List are [] square Braket               *Tuples are () parantheses
+*E.g:[1,2,34,5]                          *E.g:[3,45,6,7]
