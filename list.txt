@@ -18,3 +18,5 @@
 *Accepts any Object                        *Accepts an iterable(list,tuple,string
 *Add the object as a single item           *Add each item individually
 *List length increases by 1                *List length increase by the number of added elements
+5.What is Armstrong number?
+==>The Armstrong number is a number the sum of digits of number equal to the power of the total number of digit.
