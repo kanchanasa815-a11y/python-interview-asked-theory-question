@@ -12,3 +12,9 @@
 *List can allow Duplicate                *Tuples can allow Duplicate
 *List are [] square Braket               *Tuples are () parantheses
 *E.g:[1,2,34,5]                          *E.g:[3,45,6,7]
+4.Write the Difference b/w append() and extend()
+==>    append()                                    extend()
+*Add one Element                           *Add multiple Element
+*Accepts any Object                        *Accepts an iterable(list,tuple,string
+*Add the object as a single item           *Add each item individually
+*List length increases by 1                *List length increase by the number of added elements
