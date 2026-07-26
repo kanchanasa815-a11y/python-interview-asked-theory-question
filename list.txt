@@ -20,3 +20,9 @@
 *List length increases by 1                *List length increase by the number of added elements
 5.What is Armstrong number?
 ==>The Armstrong number is a number the sum of digits of number equal to the power of the total number of digit.
+6.Write the Difference b/w pop(),remove(),del.
+feature                            pop()            remove()            del
+* Removes By                       Index             Value              Index or Slice
+* Returns remove element            Yes              No                 No
+* Default behavior           Remove last element   no default        no default
+* can delete entire list            No               No                 Yes
