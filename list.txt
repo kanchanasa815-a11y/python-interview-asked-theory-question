@@ -15,7 +15,7 @@
 4.Write the Difference b/w append() and extend()
 ==>    append()                                    extend()
 *Add one Element                           *Add multiple Element
-*Accepts any Object                        *Accepts an iterable(list,tuple,string
+*Accepts any Object                        *Accepts an iterable(list,tuple,string)
 *Add the object as a single item           *Add each item individually
 *List length increases by 1                *List length increase by the number of added elements
 5.What is Armstrong number?
@@ -26,3 +26,10 @@ feature                            pop()            remove()            del
 * Returns remove element            Yes              No                 No
 * Default behavior           Remove last element   no default        no default
 * can delete entire list            No               No                 Yes
+7.write a difference b/w sort() and sorted().
+feature                       sort()                          sorted()
+type                        List method                   Built-in function
+modifies original list         Yes                              No
+Return a value                None                        Returns a new sorted list
+Works on                    only List                     lists,tuples,strings,sets,sictionaries,etc
+Memory                     uses less memory               create a new list
