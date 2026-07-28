@@ -34,4 +34,5 @@ Return a value                None                        Returns a new sorted l
 Works on                    only List                     lists,tuples,strings,sets,sictionaries,etc
 Memory                     uses less memory               create a new list
 8.What is slicing?
-==>
+==>Slicing in a python is used to extract the part of the sequence(string,list or tuple) 
+                      sequence[start:stop:step]
