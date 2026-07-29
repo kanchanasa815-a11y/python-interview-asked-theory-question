@@ -36,3 +36,10 @@ Memory                     uses less memory               create a new list
 8.What is slicing?
 ==>Slicing in a python is used to extract the part of the sequence(string,list or tuple) 
                       sequence[start:stop:step]
+9.What is List Comprehension?
+==>List comprehension is a short and easy way to create a new list.
+Syntax:new_list=[expression for item in collection if condition]
+Example:
+number=[1,2,3,4,5]
+square=[i*2 for i in number]
+print(square)
