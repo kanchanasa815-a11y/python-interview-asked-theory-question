@@ -43,3 +43,53 @@ Example:
 number=[1,2,3,4,5]
 square=[i*2 for i in number]
 print(square)
+10.Write a Difference B/W copy() and Deep Copy().
+==>                  copy()                                        Deep copy()
+* Copies only the outer object                    *copies the outer object and all nested objects
+*Inner lists are shared                           *Inner lists are independent
+*Changes to nested object affect both copies      *Changes the nested object affected only the copied object
+*Faster                                           *Slower
+*User copy.copy()                                 *User copy.deepcopy()
+E.g:
+Copy()
+You make a new notebook, but both notebooks share the same pages.
+Notebook A        Notebook B
+     |                 |
+     |                 |
+     +------ Page 1 ---+
+     |
+     +------ Page 2 ---+
+Now you write on Page 1 in Notebook B.
+Page 1 : Math → English
+Since both notebooks use the same Page 1, Notebook A also changes.
+So,
+Notebook A
+Page 1 : English
+
+Notebook B
+Page 1 : English
+Changing one changes both.
+
+Deepcopy()
+Now you make a complete copy.
+
+Notebook A             Notebook B
+
+Page 1 : Math          Page 1 : Math
+Page 2 : Science       Page 2 : Science
+
+Now change Page 1 in Notebook B.
+
+Notebook B
+Page 1 : English
+
+Notebook A is not affected.
+
+Notebook A
+Page 1 : Math
+
+Notebook B
+Page 1 : English
+
+
+
