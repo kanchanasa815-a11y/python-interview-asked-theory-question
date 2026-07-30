@@ -31,7 +31,7 @@ feature                       sort()                          sorted()
 type                        List method                   Built-in function
 modifies original list         Yes                              No
 Return a value                None                        Returns a new sorted list
-Works on                    only List                     lists,tuples,strings,sets,sictionaries,etc
+Works on                    only List                     lists,tuples,strings,sets,dictionaries,etc
 Memory                     uses less memory               create a new list
 8.What is slicing?
 ==>Slicing in a python is used to extract the part of the sequence(string,list or tuple) 
