@@ -1,1 +1,2 @@
-
+What is Tuples?
+==>Tuples are the collection item,jist like a list once it created we cannot change it.
