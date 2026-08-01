@@ -1,2 +1,5 @@
-What is Tuples?
-==>Tuples are the collection item,jist like a list once it created we cannot change it.
+1.What is Tuples?
+==>Tuples are the collection item,just like a list once it created we cannot change it.
+2.Why tuples are Immutable?
+==>Once the tuples are create we cannot change it.
+
