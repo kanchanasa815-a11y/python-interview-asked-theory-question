@@ -12,4 +12,9 @@ Tuple
 Uses ()
 Immutable
 Cannot add, remove, or update elements
+4.Can tuples contains mutable object.
+==>Yes,Tuples contains mutable object like list,set,dictonary.
+E.g: t=(1,[2,3],5)  #1 is index 0,[2,3] in index 1,5 in index 2
+t[1].append(4)
+print(t)
 
