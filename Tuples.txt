@@ -17,4 +17,6 @@ Cannot add, remove, or update elements
 E.g: t=(1,[2,3],5)  #1 is index 0,[2,3] in index 1,5 in index 2
 t[1].append(4)
 print(t)
+5.Why tuples are faster than the list?
+==>Tuples are faster than the list because of they are immutable.we cannot the cange or remove,delete,python stores them more effiencently,less memory,they can acces the element faster then the list.
 
