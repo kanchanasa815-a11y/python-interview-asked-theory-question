@@ -20,3 +20,4 @@ print(t)
 5.Why tuples are faster than the list?
 ==>Tuples are faster than the list because of they are immutable.we cannot change or remove,delete,python stores more effiencently,less memory,they can acces the element faster then the list.
 
+A tuple is a collection of multiple values stored together.
